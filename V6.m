@@ -6,7 +6,7 @@
 clc; clear; close all;
 
 
-%% PARTE 1: RESOLUCIÓN Y ERROR DE CUANTIZACIÓN 
+%% PARTE 1: RESOLUCIÓN Y ERROR DE CUANTIZACIÓN
 
 V_max = 5;
 V_min = -5;
